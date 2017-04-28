@@ -1,11 +1,9 @@
-
 #results
 simulations/results
 *.vec
 *.sca
 *.vci
 *.anf
-
 
 # Compiled Object files
 *.slo
